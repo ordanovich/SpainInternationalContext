@@ -11,3 +11,4 @@ Interactive data visualization of the time series sources from the main european
 
 ![](https://github.com/ordanovich/images/blob/master/animated_switch_pages.gif?raw=true)
 
+![](https://github.com/ordanovich/images/blob/master/animated_wb_graphMap.gif?raw=true)
