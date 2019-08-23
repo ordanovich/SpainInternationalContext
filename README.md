@@ -33,13 +33,15 @@
 
 ![](https://github.com/ordanovich/images/blob/master/animated_eurostat_plotly.gif?raw=true)
 
-#### :mag_right: Compare the data for Spain to other regions at selected NUTS level
+#### :straight_ruler: Compare the data for Spain to other regions at selected NUTS level
 
 > Tag and untag outliers in your data. Export results to an image. 
 
 ![](https://github.com/ordanovich/images/blob/master/animated_eurostat_ggstatsplot.gif?raw=true)
 
-#### :mag_right: Search for the datasets or tables using keywords
+#### :fire: Generate a heatmap for Spain at selected NUTS level
+
+> Export graph to any of the available formats.
 
 ![](https://github.com/ordanovich/images/blob/master/_animated_eurostat_heatmap.gif?raw=true)
 
