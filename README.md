@@ -33,7 +33,9 @@
 
 ![](https://github.com/ordanovich/images/blob/master/animated_eurostat_plotly.gif?raw=true)
 
-#### :mag_right: Search for the datasets or tables using keywords
+#### :mag_right: Compare the data for Spain to other regions at selected NUTS level
+
+> Tag and untag outliers in your data. Export results to an image. 
 
 ![](https://github.com/ordanovich/images/blob/master/animated_eurostat_ggstatsplot.gif?raw=true)
 
