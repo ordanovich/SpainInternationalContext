@@ -21,15 +21,23 @@
 
 ### Eurostat
 
-#### Search for the datasets or tables using keywords
+#### :mag_right: Search for the datasets or tables using keywords
 
 ![](https://github.com/ordanovich/images/blob/master/animated_eurostat_search.gif?raw=true)
 
+#### :mag_right: Search for the datasets or tables using keywords
+
 ![](https://github.com/ordanovich/images/blob/master/animated_eurostat_plotly.gif?raw=true)
+
+#### :mag_right: Search for the datasets or tables using keywords
 
 ![](https://github.com/ordanovich/images/blob/master/animated_eurostat_ggstatsplot.gif?raw=true)
 
+#### :mag_right: Search for the datasets or tables using keywords
+
 ![](https://github.com/ordanovich/images/blob/master/_animated_eurostat_heatmap.gif?raw=true)
+
+#### :mag_right: Search for the datasets or tables using keywords
 
 ![](https://github.com/ordanovich/images/blob/master/animated_switch_pages.gif?raw=true)
 
