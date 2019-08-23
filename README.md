@@ -1,6 +1,6 @@
 <p align="center"><a href="http://193.146.75.235/sample-apps/final_apps/layout/"><img src="https://github.com/ordanovich/images/blob/master/logoColorcentered_medium.png?raw=true"></a></p>
 
-[Spain in International Context](http://193.146.75.235/sample-apps/final_apps/international_context/) is one of the core applications for data retrieval and visualization within the [Web Portal for Health and Population in Spain](http://193.146.75.235/sample-apps/final_apps/layout/). It allows you to search for available datasets in 4 main statistical repositories at euroepan and global levels and create versatile graphics which you can then export to a desired format. 
+[Spain in International Context](http://193.146.75.235/sample-apps/final_apps/international_context/) is one of the core applications for data retrieval and visualization within the [Web Portal for Health and Population in Spain](http://193.146.75.235/sample-apps/final_apps/layout/). It allows you to search for available datasets in 4 main statistical repositories at european and global levels and create versatile graphics which you can then export to a desired format. 
 
 Data providers
 - [Eurostat](https://ec.europa.eu/eurostat/home): to access the application for bulk data retrieval only [click here](http://193.146.75.235/sample-apps/final_apps/eurostat_download/) 
