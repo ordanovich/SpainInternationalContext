@@ -19,6 +19,10 @@
 - :computer: [server.R](https://github.com/ordanovich/SpainInternationalContext/blob/master/server.R): Server component
 - :globe_with_meridians: [global.R](https://github.com/ordanovich/SpainInternationalContext/blob/master/global.R): Helper functions
 
+#### :mag_right: Navigate between pages using the sidebar menu
+
+![](https://github.com/ordanovich/images/blob/master/animated_switch_pages.gif?raw=true)
+
 ### Eurostat
 
 #### :mag_right: Search for the datasets or tables using keywords
@@ -45,20 +49,26 @@
 
 ![](https://github.com/ordanovich/images/blob/master/_animated_eurostat_heatmap.gif?raw=true)
 
-#### :mag_right: Search for the datasets or tables using keywords
-
-![](https://github.com/ordanovich/images/blob/master/animated_switch_pages.gif?raw=true)
-
 ### Worldbank
 
+#### :chart_with_downwards_trend: Plot time series graphs and generate maps for selected variable 
+
+> Explore the options to change the appearence of the graphs.
+
 ![](https://github.com/ordanovich/images/blob/master/animated_wb_graphMap.gif?raw=true)
+
+#### :straight_ruler: Compare data at regional or country level 
 
 ![](https://github.com/ordanovich/images/blob/master/animated_wb_ggstatsplot.gif?raw=true)
 
 ### WHO
 
+#### :o: Make circular plots and explore time series graphs
+
 ![](https://github.com/ordanovich/images/blob/master/animated_who_circular.gif?raw=true)
 
 ### OECD
+
+#### :bar_chart: Run animations to see the change in the variable of choice over time and plot heatmaps
 
 ![](https://github.com/ordanovich/images/blob/master/animated_oecd.gif?raw=true)
