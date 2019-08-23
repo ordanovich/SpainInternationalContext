@@ -25,7 +25,11 @@
 
 ![](https://github.com/ordanovich/images/blob/master/animated_eurostat_search.gif?raw=true)
 
-#### :mag_right: Search for the datasets or tables using keywords
+> Note that the dependency of the variables if hiereachical. 
+
+#### :chart_with_upwards_trend: Explore the time-series graph
+
+> Change the display charateristics of the graph and modify the parameters for better model fit.
 
 ![](https://github.com/ordanovich/images/blob/master/animated_eurostat_plotly.gif?raw=true)
 
